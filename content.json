@@ -1,0 +1,124 @@
+{
+  "clusters": {
+    "0": [
+      "Introduction to Programming",
+      "https://www.khanacademy.org/computer-programming/computer-programming/intro/v/welcome-to-computer-programming",
+      "Basic problem-solving exercises",
+      "https://www.hackerrank.com/domains/problem-solving"
+    ],
+    "1": [
+      "Intermediate Programming Concepts",
+      "https://www.coursera.org/specializations/programming-paradigms",
+      "Object-Oriented Programming",
+      "https://www.tutorialspoint.com/python/python_oop.htm"
+    ],
+    "2": [
+      "Advanced Programming Techniques",
+      "https://mitpress.mit.edu/sites/default/files/titles/related-content/introduction-algorithms-third-edition.pdf",
+      "Algorithm Design and Analysis",
+      "https://www.coursera.org/specializations/algorithms"
+    ],
+    "3": [
+      "Data Science Basics",
+      "https://www.kaggle.com/learn/intro-to-data-science",
+      "Introduction to Pandas and NumPy",
+      "https://www.datacamp.com/courses/intro-to-pandas-pydata"
+    ],
+    "4": [
+      "Advanced Data Science",
+      "https://www.coursera.org/specializations/data-science-python",
+      "Machine Learning with Scikit-learn",
+      "https://scikit-learn.org/stable/tutorial/basic/tutorial.html"
+    ],
+    "5": [
+      "Deep Learning Fundamentals",
+      "https://www.deeplearningbook.org/",
+      "Building Neural Networks with TensorFlow",
+      "https://www.tensorflow.org/tutorials/keras/basic_classification"
+    ],
+    "6": [
+      "Web Development Basics",
+      "https://www.codecademy.com/learn/learn-html",
+      "HTML, CSS, and JavaScript Tutorials",
+      "https://www.w3schools.com/html/"
+    ],
+    "7": [
+      "Backend Web Development with Python",
+      "https://docs.djangoproject.com/en/4.2/intro/overview/",
+      "Using Flask and Django for Web Apps",
+      "https://flask.palletsprojects.com/en/2.2.x/quickstart/"
+    ],
+    "8": [
+      "Full-stack Development",
+      "https://fastapi.tiangolo.com/tutorial/basic/",
+      "Building Web APIs with FastAPI",
+      "https://fastapi.tiangolo.com/tutorial/body/"
+    ],
+    "9": [
+      "Databases and SQL Basics",
+      "https://www.w3schools.com/sql/sql_intro.asp",
+      "Introduction to NoSQL Databases",
+      "https://www.mongodb.com/nosql/what-is-nosql"
+    ],
+    "10": [
+      "Advanced Database Management",
+      "https://www.postgresql.org/docs/current/advanced-features.html",
+      "Database Design and Optimization",
+      "https://www.oreilly.com/library/view/database-design-for-scalability/9780596805833/"
+    ],
+    "11": [
+      "Cloud Computing Basics",
+      "https://aws.amazon.com/cloud/getting-started/",
+      "Introduction to AWS and Azure",
+      "https://azure.microsoft.com/en-us/services/cloud-computing/"
+    ],
+    "12": [
+      "DevOps Essentials",
+      "https://www.atlassian.com/agile/software-development/devops",
+      "CI/CD Pipelines and Automation",
+      "https://jenkins.io/doc/book/pipeline/getting-started.html"
+    ],
+    "13": [
+      "Cybersecurity Fundamentals",
+      "https://www.sans.org/cyber-security-awareness/internet-security-essentials",
+      "Secure Programming Practices",
+      "https://wiki.owasp.org/index.php/OWASP_Top_10"
+    ],
+    "14": [
+      "Artificial Intelligence Basics",
+      "https://www.coursera.org/specializations/introductory-machine-learning",
+      "Natural Language Processing with Python",
+      "https://www.nltk.org/"
+    ],
+    "15": [
+      "Advanced Artificial Intelligence",
+      "https://deepmind.com/research/area/reinforcement-learning",
+      "Reinforcement Learning Tutorials",
+      "https://www.qiskit.org/textbook/ch-machine-learning/rl.html"
+    ],
+    "16": [
+      "Mobile App Development",
+      "https://developer.android.com/studio/intro",
+      "Building Apps with Flutter",
+      "https://flutter.dev/tutorials/basic/widget-guide"
+    ],
+    "17": [
+      "Software Engineering Fundamentals",
+      "https://www.tutorialspoint.com/software_engineering/software_engineering_overview.htm",
+      "Agile and Scrum Methodologies",
+      "https://www.atlassian.com/agile/scrum"
+    ],
+    "18": [
+      "Game Development Basics",
+      "https://unity.com/learn/tutorials/topics/introduction/learn-to-code",
+      "Building Games with Unity",
+      "https://docs.unity3d.com/Manual/GettingStarted.html"
+    ],
+    "19": [
+      "Blockchain Basics",
+      "https://bitcoin.org/en/getting-started",
+      "Smart Contracts with Solidity",
+      "https://ethereum.org/en/developers/solidity/"
+    ]
+  }
+}
