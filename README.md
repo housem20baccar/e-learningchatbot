@@ -105,3 +105,7 @@ The personalized chatbot system:
    - Personal chat history
    - Individual recommendations
    - Custom difficulty adjustments
+5. **Interfaces and Mysql**
+![Screenshot 2024-12-26 205926](https://github.com/user-attachments/assets/e5c61974-abe2-48e1-bead-05867e295b4c)
+![Screenshot 2024-12-26 210109](https://github.com/user-attachments/assets/7c6d1050-5b2e-4fcd-8049-69701e3ed998)
+
